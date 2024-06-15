@@ -1,0 +1,26 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "\"# CleanBlog\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/enesarafatoglu/CleanBlog.git)"
+  },
+  "keywords": [
+    "cleanblog"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.3",
+    "prettier": "3.3.2"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
